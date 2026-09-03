@@ -17,7 +17,7 @@ I am a **MERN Stack Developer** with 3+ years of experience in architecting and 
 ---
 
 ### 💼 Work Experience:
-* **MERN Stack Developer** @ Q Technologies *(June 2024 - Present)*
+* **MERN Stack Developer** @ Q Technologies *(June 2025 - Present)*
 * **MERN Stack Developer** @ Asra Soft *(April 2023)*
 * **Frontend Developer** @ Computing Yard *(September 2022)*
 
