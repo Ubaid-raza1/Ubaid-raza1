@@ -12,7 +12,7 @@
 <br/>
 
 ### 🙋‍♂️ About Me:
-I am a **MERN Stack Developer** with 3+ years of experience in architecting and delivering high-performance, scalable web applications. I specialize in building complex enterprise solutions—such as **multi-location ERP systems**—along with modern SaaS platforms and product websites. I have strong hands-on expertise in **AI Models & LLMs Integrations** (OpenAI APIs, AI-driven analytics), team leadership, and cloud/VPS deployments across multiple environments.
+I am a **MERN Stack Developer** with 3+ years of experience in architecting and delivering high-performance, scalable web applications. I specialize in building complex enterprise solutions—such as **multi-location ERP systems**—along with modern SaaS platforms and product websites. I have strong hands-on expertise in **integrating AI Models & LLMs** (OpenAI APIs, AI-driven analytics), team leadership, and cloud/VPS deployments across multiple environments.
 
 ---
 
@@ -24,17 +24,21 @@ I am a **MERN Stack Developer** with 3+ years of experience in architecting and 
 ---
 
 ### 🚀 Top Projects:
-* 🏭 **Morgan Steel ERP:** Engineered a multi-dashboard enterprise ERP system with role-based access (Super Admin, Admin, Users). Currently deployed & running live across **2 different manufacturing locations** for real-time production tracking, inventory, and order management.
-* 🤖 **Ainova:** Developed an AI-powered business analytics platform incorporating **AI models** and real-time insights dashboards to optimize decision-making workflows.
-* 🏨 **Stay Pass:** Built an end-to-end booking lifecycle management system featuring streamlined digital check-ins and venue accommodation workflows.
-* 📱 **The Direct Sell:** Designed an offline-first CRM solution tailored for field sales teams and SMB operations.
+* 🏭 **Morgan Steel (Multi-Tenant Enterprise ERP):** Developed a multi-dashboard web system with role-based access (Super Admin, Admin, Users). Implemented modules for production tracking, inventory management, orders, and analytics to streamline steel mill workflows.
+* 🤖 **Ainova (AI Business Platform):** Developed an AI-powered analytics system for business model optimization and built real-time insights dashboards enabling data-driven decision-making.
+* 📱 **The Direct Sell (Sales Management Software):** Engineered an offline-first CRM solution for field sales teams and created affordable productivity tools streamlining SMB operations.
+* 📢 **PostUp (Social Media Management Platform):** Built a cross-platform content scheduling system for multiple social channels with an intuitive dashboard reducing manual management efforts.
+* 🎟️ **Rows N Seats (Event Planning Tool):** Created an interactive seat mapping system with drag-and-drop functionality and built real-time booking management for venue operations.
+* 🏨 **Stay Pass (Booking Management System):** Developed a digital check-in system streamlining accommodation processes and built a comprehensive booking lifecycle management platform.
+* 🌐 **70Solutions (Corporate Website):** Designed a professional tech solutions showcase website with a clean layout highlighting services and expertise.
+* 🔧 **Fix My Appliance (On-Demand Service Platform):** Developed an on-demand technician booking platform providing a quick repair service solution for home appliances.
 
 ---
 
 ### 💻 Technical Expertise:
 * **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Redux.js, Tailwind CSS
 * **Backend:** Node.js, Express.js, GraphQL, REST APIs, JWT Auth
-* **AI & Smart Integrations:** OpenAI API, AI Models Integration, LLM Agents
+* **AI Integrations:** OpenAI API, LLM API Integrations, Prompt Engineering
 * **Databases:** MongoDB, PostgreSQL, DynamoDB, Sequelize ORM
 * **Cloud & DevOps / VPS:** AWS, Kubernetes, Docker, Linux, Vercel, Firebase
 
@@ -43,7 +47,7 @@ I am a **MERN Stack Developer** with 3+ years of experience in architecting and 
 ### 🏆 Achievements & Education:
 * 🥈 **Runner-Up @ Procom 2024 (FAST-NU):** Web Development Competition
 * 📜 **Certified Developer:** Saylani Mass IT Training Program (MERN Stack)
-* 🎓 **Matriculation in Science:** Kutchi Kumhar Secondary School
+* 🎓 **Matriculation in Science:** Board of Secondary Education Karachi
 
 ---
 
